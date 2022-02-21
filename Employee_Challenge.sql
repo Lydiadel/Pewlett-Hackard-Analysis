@@ -26,3 +26,11 @@ FROM retirement_titles as rt
 WHERE to_date = '9999-01-01'
 ORDER BY rt.emp_no, rt.to_date DESC;
 SELECT * FROM unique_titles;
+
+-- Retrieve employees retiring title
+SELECT COUNT (ce.emp_no), ut.title
+FROM unique_titles as ut
+LEFT JOIN current_emp as ce
+ON ce.emp_no = ut.emp_no
+GROUP BY title
+ORDER BY COUNT(title) DESC;
