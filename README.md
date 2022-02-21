@@ -11,10 +11,11 @@ The main purpose of this analysis is to determine the employees that are retirin
 7245800
 ## Results
 <img width="213" alt="Captura de Pantalla 2022-02-21 a la(s) 4 55 47" src="https://user-images.githubusercontent.com/71950779/154941685-cf122429-9087-488d-8039-61df685f4eae.png">
-  - The Senior Engineer and Senior Staff are the title positions that will decrease the most.
-  -  Due the retirement titles are names repeated this mean that they have changed from title position, allowing us to watch the date they transferred one title to another if is the case.
-  - The manager position would be the least affected since only two people are retiring from this area.
-  - There would be a lost of 24.1% employees working currently at the company.
+    - The Senior Engineer and Senior Staff are the title positions that will decrease the most.
+    -  Due the retirement titles are names repeated this mean that they have changed from title position, allowing us to watch the date they transferred one title
+    to another if is the case.
+    - The manager position would be the least affected since only two people are retiring from this area.
+    - There would be a lost of 24.1% employees working currently at the company.
 
 ## Summary
 ### Employees Retiring
