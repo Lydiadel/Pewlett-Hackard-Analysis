@@ -8,7 +8,7 @@ The main purpose of this analysis is to determine the employees that are retirin
 
 ### Total Employees
 <img width="97" alt="Captura de Pantalla 2022-02-21 a la(s) 4 58 54" src="https://user-images.githubusercontent.com/71950779/154942209-e86f4e1b-784c-4dac-bd36-fad76e9918bd.png">
-7245800
+
 ## Results
 <img width="213" alt="Captura de Pantalla 2022-02-21 a la(s) 4 55 47" src="https://user-images.githubusercontent.com/71950779/154941685-cf122429-9087-488d-8039-61df685f4eae.png">
 
